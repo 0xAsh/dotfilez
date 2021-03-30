@@ -1,7 +1,6 @@
 #!/bin/bash
 
-read -p "This will wipe any dotfiles in your home. Are you sure you want to run this?" -n 1 -r
-echo 
+read -p "This will wipe any dotfiles in your home. Are you sure you want to run this? y/n  " -n 1 -r
 
 if [[ $REPLY =~ ^[Yy]$ ]]
 
