@@ -1,16 +1,12 @@
 ![banner](banner.png)
 
 # Ash's Dotfilez
+Can't live without them
 
 ## What's inside:
-- .bashrc
-- .tmux.conf 
-
-## How to use:
-- Clone the repo: `git clone https://github.com/0xAsh/dotfilez`
-- `cd dotfilez`
-- Run install.sh **Warning: This will DELETE any prior dotfiles you have. Use carefully**
-- Done!
+- `.bashrc`
+- `.tmux.conf` 
+- `.nanorc`
 
 ## Tmux Keybindings:
 | Function | Hotkey | 
@@ -20,5 +16,3 @@
 | Change windows | Alt + arrow keys (left/right) |
 | Copy Tmux buffer to clipboard | Alt + s |
 
-## To-do:
-- Learn vim and write a .vimrc
