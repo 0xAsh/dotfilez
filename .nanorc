@@ -1,3 +1,10 @@
-include "/usr/share/nano/markdown.nanorc"
-include "/usr/share/nano/sh.nanorc"
-include "/usr/share/nano/python.nanorc"
+## Config options
+set softwrap
+set atblanks
+
+## Syntax highlighting
+include /usr/share/nano/markdown.nanorc
+include /usr/share/nano/sh.nanorc
+include /usr/share/nano/html.nanorc
+include /usr/share/nano/nanorc.nanorc
+include /usr/share/nano/python.nanorc
